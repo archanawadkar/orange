@@ -54,7 +54,10 @@ public class HomePageTest extends BaseTest {
 	}
 	
 	
-	
+	@Test
+	public void NewAdded() {
+		System.out.println("Added new test");
+	}
 	
 	
 	
